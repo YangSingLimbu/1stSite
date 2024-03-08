@@ -30,9 +30,7 @@ h1 {
 .profile{
     margin-bottom: 100px;
 }
-.skill{
-    margin-top: 100px;
-}
+
 .cl{
     position: absolute;
     right: 100px;
@@ -48,17 +46,20 @@ h1 {
     height: 400px;
 }
 .middle-container{
-   
-    background: black;
-    position: absolute;
-    top: 550px;
+    background: black;    
 }
-.skill-row{
-    width: 50%;
-    margin: 100px auto;
-    text-align: left;
-    line-height: 2;
+
+.skill-row {
+    margin-top: 50px;
 }
+
+.skill-row img {
+    width: 100px;
+}
+
+
+
+
 .profile p{
     text-align: center;
     margin: auto;
@@ -66,18 +67,7 @@ h1 {
     
 
 }
-.web{
-    text-align: left;
-    margin-left: 310px;
-}
-.aaa{
-    float: right;
-    margin-left: 30;
-}
-.bbb{
-  margin-right: 30px;
-  float: left;
-}
+
 .contact-me{
   margin: 100px auto;
 
